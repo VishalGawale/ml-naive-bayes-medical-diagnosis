@@ -1,4 +1,4 @@
-# Inflammation Disease Diagnosis using Naive Bayes Classifier
+# Inflammation Disease Diagnosis using Naive Bayes Classifier with Machine Learning
 
 ## Project Overview
 This project uses a Naive Bayes classifier to diagnose inflammation-related diseases based on symptoms like temperature, nausea, pain, and others. The goal is to predict the presence of diseases such as nephritis or urinary tract infection.
