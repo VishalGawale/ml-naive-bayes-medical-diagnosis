@@ -7,12 +7,12 @@ This is my stab at diagnosing inflammation diseases using machine learning. I le
 ## Tasks & Steps  
 Here’s how I made it happen:  
 - **Data Prep**: Loaded a dataset with symptoms like `temperature`, `nausea`, and `lumbar_pain`, plus a target label `disease` (mixing inflammation and nephritis). Cleaned it up and got it ready to roll.  
-- **Model Time**: Trained a Naive Bayes classifier—simple, speedy, and surprisingly sharp for this job.  
+- **Model Time**: Trained a Naive Bayes classifier simple, speedy, and surprisingly sharp for this job.  
 - **Visuals & Checks**: Used plots (thanks, Matplotlib and Seaborn!) to see how symptoms tie to diagnoses, and ran some metrics to prove it works.  
 
 ## Key Insights  
 - Naive Bayes nailed it—quick predictions with solid accuracy for symptom-based diagnosis.  
-- Symptoms like `temperature` and `lumbar_pain` were big red flags—super telling for spotting trouble.  
+- Symptoms like `temperature` and `lumbar_pain` were big red flags super telling for spotting trouble.  
 - Small project, big potential—think medical apps or triage tools. Recruiters, this could scale!
 
 ## Requirements  
